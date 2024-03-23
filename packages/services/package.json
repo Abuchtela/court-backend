@@ -14,8 +14,8 @@
   "dependencies": {
     "@aragonone/court-backend-server": "^0.2.22",
     "@aragonone/court-backend-shared": "^0.2.22",
-    "@promster/metrics": "^4.1.10",
-    "@promster/server": "^4.2.12",
+    "@promster/metrics": "^7.0.0",
+    "@promster/server": "^6.0.3",
     "axios": "^1.6.0",
     "dateformat": "^3.0.3",
     "dotenv": "^8.2.0",
